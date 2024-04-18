@@ -9,6 +9,6 @@ public class GitTestController {
 		return "점심언제먹지?";
 	}
 	public void test2() {
-
+		
 	}
 }
